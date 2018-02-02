@@ -1,0 +1,30 @@
+Team Name: ismart
+Team Members: 1. MD. SAHIL AFRID FAROOKHI, 7337288092, msafarookhi@gmail.com
+	      2. N. SUJITH MOHAN, 8019610236, nmohan1997@gmail.com
+University: K L University
+
+*** SMART CAR
+~~ Problem analysis
+* Road accidents are one of the fatal things which are taking many life's every year.
+* Some of the reasons for these accidents are:
+ - Driver fault – drunk, speeding, recklessness, teenage drivers,…
+ - Sudden activities – rain, ice, snow, potholes, tire blowout, fog,…
+* Deaths, property loss, mental agony, many more…
+* Pollution, parking problems.
+
+~~ Detailed plan for idea execution
+* Employing AI (Artificial intelligence)
+ - By using intelligent systems, we can make smart decisions during our driving which means we are going to employ a intelligent system to monitor and guide us through out our driving. (assist humans during drunk, teenagers, controls rash driving, check speeding)
+ - By providing vision to the intelligent system, we can make our driving even more effective during the snow fall, rain, safeguard from potholes,  fog, many more…
+ - Cognitive science is the best way to check the entire system with the help of driver’s brain. It just reads the human and acts according to it, our senses work faster than a man-made machine.
+
+* Using IoT
+ - Smart parking sensors for smart parking system, helps us to save our time, fuel and space of parking.
+ - iBeacon’s sensing and tracking type policy helps us to monitor all the cars and helps us to analyse the traffic, prevents head-on collision accidents with other cars, control traffic flow and fleet control.
+ - By using M2M applications we can run machine auto-diagnosis and asset controls, which means the system can run and perform its tasks normally during any technical issue without fully failing to work.
+
+~~ Qualitive business case
+- We have to develop a system which can take all changes like a agile model (software life cycle model) from time to time without failing to adopt it.
+- As we are using the AI and IoT to work out on our entire project which means we can adopt the changes in the software of the system without doing much hardware changes.
+- As we are using AI and IoT, we can greatly influence or make timely changes to the system without much troubles (just like giving updates for a smartphone). 
+- It means, its like a one time investment for the company as it saves the life’s of humans and reduces the accidents to a great extent.  
