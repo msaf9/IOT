@@ -1,1 +1,1 @@
-# ismart
+# Smart Car - Case study
