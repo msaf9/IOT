@@ -1,12 +1,15 @@
-# Smart Car - Case study
+# Case study
 Smart Cars using more advanced AI and IoT.
 
 ## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Case study](#case-study)
+  - [Table of contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Technologies](#technologies)
+  - [Project status](#project-status)
+  - [Installation](#installation)
+    - [Get repository](#get-repository)
+  - [License](#license)
 
 ## Introduction
 Improve overall experience and safety of Smart Cars by using AI and IoT.
@@ -16,7 +19,7 @@ Improve overall experience and safety of Smart Cars by using AI and IoT.
 - Utilizing IoT
 
 ## Project status
-> **Case study**
+> **Completed**
 
 ## Installation
 ### Get repository
