@@ -1,9 +1,7 @@
-# Case study
+# Case study - Smart Cars
 Smart Cars using more advanced AI and IoT.
 
-## Table of contents
-- [Case study](#case-study)
-  - [Table of contents](#table-of-contents)
+- [Case study - Smart Cars](#case-study---smart-cars)
   - [Introduction](#introduction)
   - [Technologies](#technologies)
   - [Project status](#project-status)
