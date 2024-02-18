@@ -26,8 +26,8 @@ Improve overall experience and safety of Smart Cars by using AI and IoT.
 ### Get repository
 
 ```git
-git https://github.com/msaf9/IoT.git
-cd IoT
+git https://github.com/msaf9/iot.git
+cd iot
 ```
 
 ## License
