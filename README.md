@@ -1,6 +1,8 @@
 <h1> Case study - Smart Cars </h1>
 Smart Cars using more advanced AI and IoT.
 
+<h2>Table of contents</h2>
+
 - [Introduction](#introduction)
 - [Technologies](#technologies)
 - [Project status](#project-status)
